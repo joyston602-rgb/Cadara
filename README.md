@@ -26,23 +26,6 @@ Cadara combines interactive 3D modeling with AI agents to provide:
 - **Tutorial Mode**: Interactive step-by-step instructions
 - **Playground Mode**: Free-form modeling environment
 
-## 🛠 Technology Stack
-
-### Core Technologies
-
-- **React** - User interface and component management
-- **Three.js** - 3D graphics and rendering
-- **React Three Fiber** - React renderer for Three.js
-- **React Three Drei** - Useful helpers for React Three Fiber
-- **Tailwind CSS** - Responsive and modern styling
-
-### AI & Backend Integration
-
-- **Vercel** - Production deployment and hosting
-- **Cline** - Autonomous coding workflows for feature development
-- **CodeRabbit** - Code quality and review automation
-- **Oumi** - Custom LLM training for CAD-specific AI responses
-- **Groq** - High-performance inference for real-time chatbot interactions
 
 ## 🎯 Impact
 
